@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 50d9bb4d6a0f9614ab9100cd1a325d91
+  m_SerializeEntries:
+  - m_GUID: 1bb6ede8c3e277342800f929c98e08de
+    m_Address: EventSystem
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c357b8b15819f3f489a7c8dda07cf349
+    m_Address: MainCamera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e860806ab46fdb42bce476f7714a4a0
+    m_Address: FreeLook
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3346009e48c301042a4ff91601e0558c
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 953667e424fe0c84ead601ad039a1e71
+    m_Address: ResourceBundle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0959c74cac497834799e22397b299c73
+    m_Address: Assets/TerrainDemoScene_HDRP/Animation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dd9ac29ffd209c4e8f56cc90cd94877
+    m_Address: Assets/TerrainDemoScene_HDRP/LensFlares
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96d928f51cac350499225a93778e20cf
+    m_Address: Assets/TerrainDemoScene_HDRP/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 214f6da7065a69346b1ec423d8756968
+    m_Address: Assets/TerrainDemoScene_HDRP/ShaderGraphs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7d9479254419746b6bef253ae5853b
+    m_Address: Assets/TerrainDemoScene_HDRP/Terrain
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e74a50c174002f848bd53aeb343b55e7
+    m_Address: Assets/TerrainDemoScene_HDRP/Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5100d9d5620e4bf1ada5abb4b7674a5
+    m_Address: Assets/TerrainDemoScene_HDRP/VFXGraphs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 102a993d49ac4b440b0bdd444b5b3c7d
+    m_Address: Assets/TerrainDemoScene_HDRP/Volumes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1842b2093a3577649a4a6451688af635
+    m_Address: x3y3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9621d77b3a512c45807d0a52adb6d0c
+    m_Address: x3y2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5d5e4a013dd9cc47b2c17152bcd2c8e
+    m_Address: x3y1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2573a049dadeb24697706ce6e12c6d7
+    m_Address: x3y0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 363a7a001930aac4e854680f5e413679
+    m_Address: x2y3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2d1bf78d29a87545ab4f5c1a8d6bd4c
+    m_Address: x2y2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5e65e812471aef41907db8f0f91a7e7
+    m_Address: x2y1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b4f6313d164a343ba3b4f65f27d29d
+    m_Address: x2y0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbd1c14fbde90b04f9050f839047e8e0
+    m_Address: x1y3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e461ee120fe4b840ab303f462dc3e23
+    m_Address: x1y2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bb731bc3291c8b49815acdc8ea324ee
+    m_Address: x1y1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd8e6ae2834ce7d48b4deca1ee124960
+    m_Address: x1y0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92f386193c2b7b4cb6ad241d994c2f0
+    m_Address: x0y3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a27128c02f8ca814cacd32374c18b38a
+    m_Address: x0y2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 784cc157380c9544a9aae426754d568e
+    m_Address: x0y1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ee725b7348c96b4fa598e10ae65eb5e
+    m_Address: x0y0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3ec8a226f77dbb1438d81699d3c78f1e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3dce284d16dad6e45930fd77ebefbcd1, type: 2}
+    - {fileID: 11400000, guid: 55f37489f1274d04aa7447823f65de2c, type: 2}
